@@ -2,13 +2,13 @@
 ![image](https://github.com/vans10/SQL_PowerBI_Project/assets/145096406/724febcd-2a3d-4a0b-ab22-af90521e7e25)
 
 # Data used
-Data set taken from Kaggle.
+-- Data set taken from Kaggle.
 
-Data - HR Data with over 22000 rows from the year 2000 to 2020.
+ -- Data - HR Data with over 22000 rows from the year 2000 to 2020.
 
-Data Cleaning & Analysis - MySQL Workbench
+-- Data Cleaning & Analysis - MySQL Workbench
 
-Data Visualization - PowerBI
+-- Data Visualization - PowerBI
 
 # Questions
 
