@@ -24,6 +24,8 @@
 10.	How has the company's employee count changed over time based on hire and term dates?
 11.	What is the tenure distribution for each department?
 
-# Findings
+# Sumamary
+
+The company has more male employees and is predominantly White, with fewer Native Hawaiian and American Indian workers. Employee ages range from 20 to 57, grouped into five categories, with 25-34 and 35-44 age groups having the most employees, and 55-64 the fewest. A significant portion of employees work on-site rather than remotely, and the average tenure for terminated employees is approximately 8 years. Gender distribution across departments is fairly balanced, with a slight male predominance. A substantial number of employees come from Ohio, and the company has seen a net increase in its workforce over the years.
 
 
