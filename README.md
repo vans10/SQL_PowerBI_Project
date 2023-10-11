@@ -24,3 +24,6 @@
 10.	How has the company's employee count changed over time based on hire and term dates?
 11.	What is the tenure distribution for each department?
 
+# Findings
+
+
